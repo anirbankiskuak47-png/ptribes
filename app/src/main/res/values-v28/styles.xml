@@ -1,0 +1,2 @@
+<resources><style name="GameTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+    <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item></style></resources>
